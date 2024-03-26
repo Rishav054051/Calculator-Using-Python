@@ -156,7 +156,7 @@ def run():
     root.minsize(200,300)
     root.iconphoto(False, tk.PhotoImage(file="D:\GIT\Calculator-Using-Python\icons8-calculator-48.png"))
     root.title("Calculator GUI")
-
+    
     display_frame=create_display_frame(root)
     total_label,label=create_display_label(display_frame)
 
