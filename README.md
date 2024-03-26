@@ -5,23 +5,25 @@ Here I am going to make Calculator using puthon and implementing GUI to it.
 <br>
 🔍 With this project, I delved into GUI programming and honed my skills in Python development. From designing the user interface to implementing the logic behind calculations, it's been an enriching learning experience.
 <br>
-<b>Functionalities :<\b>
+**Functionalities :**
 <br>
-<b>1.<\b> Basic Arithmetic Operations: Users can perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division.
+**1.** Basic Arithmetic Operations: Users can perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division.
 
-<b>2.<\b> Keyboard Input Support: The calculator supports keyboard input, allowing users to input numbers and operators directly from their keyboard for faster calculations.
+**2.** Keyboard Input Support: The calculator supports keyboard input, allowing users to input numbers and operators directly from their keyboard for faster calculations.
 
-<b>3.<\b> Clean and Intuitive Interface: The calculator features a clean and user-friendly interface designed for ease of use and intuitive navigation.
+**3.** Clean and Intuitive Interface: The calculator features a clean and user-friendly interface designed for ease of use and intuitive navigation.
 
-<b>4.<\b> Error Handling: The calculator includes error handling mechanisms to gracefully handle invalid inputs or mathematical errors, providing a smooth user experience.
+**4.** Error Handling: The calculator includes error handling mechanisms to gracefully handle invalid inputs or mathematical errors, providing a smooth user experience.
 
-<b>5.<\b> Dynamic Expression Display: The current expression being entered or evaluated is dynamically displayed on the screen, keeping users informed and engaged throughout their calculation process.
+**5.** Dynamic Expression Display: The current expression being entered or evaluated is dynamically displayed on the screen, keeping users informed and engaged throughout their calculation process.
 
-<b> 6.<\b> Parentheses Support: The calculator allows users to input and evaluate expressions containing parentheses, enabling complex calculations and mathematical expressions.
+**6.** Parentheses Support: The calculator allows users to input and evaluate expressions containing parentheses, enabling complex calculations and mathematical expressions.
 
-<b>7.<\b> Responsive Design: The calculator GUI is designed to be responsive and adaptable, ensuring optimal usability across different screen sizes and resolutions.
+**7.** Responsive Design: The calculator GUI is designed to be responsive and adaptable, ensuring optimal usability across different screen sizes and resolutions.
 
 💡 Looking forward to continuing my journey in software development and exploring new projects. Stay tuned for more updates!
-
-
+<br>
+<br>
+Note: Images of the calculator GUI for reference
+<br>
 ![Screenshot 2024-03-24 143424](https://github.com/Rishav054051/Calculator-Using-Python/assets/155712224/a5c05744-3e1e-4368-b1ed-689880b73b09)
