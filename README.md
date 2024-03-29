@@ -26,4 +26,5 @@ Here I am going to make Calculator using puthon and implementing GUI to it.
 <br>
 Note: Images of the calculator GUI for reference
 <br>
-![Screenshot 2024-03-24 143424](https://github.com/Rishav054051/Calculator-Using-Python/assets/155712224/a5c05744-3e1e-4368-b1ed-689880b73b09)
+![real](https://github.com/Rishav054051/Calculator-Using-Python/assets/155712224/0c32313d-b078-4287-adfe-d9552b4790c4)
+
